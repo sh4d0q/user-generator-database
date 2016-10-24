@@ -40,7 +40,7 @@ public class App {
             "Poznań", "Bydgoszcz", "Łódź"};
 
     public static String[] wojewodztwa = {"Mazowieckie", "Lubelskie", "Małopolskie", "Pomorskie", "Dolnośląskie", "Zachodnio-pomorskie",
-    "Slaskie", "Podkarpackie", "Wielkopolskie", "Kujawsko-pomorskie", "łódzkie"};
+    "Slaskie", "Podkarpackie", "Wielkopolskie", "Kujawsko-pomorskie", "Łódzkie"};
 
     public Character[] plec = {'M', 'K'};
 
